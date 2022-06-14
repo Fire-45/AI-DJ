@@ -1,0 +1,14 @@
+body{
+    background-image: url("kloIHO.webp");
+}
+
+canvas{
+
+    border-color: Silver;
+    border-style: ridge;
+    background-color: black;
+    box-shadow: 5px 5px white;
+    width: 600px;
+    height: 350px;
+    border-width: 10px;
+}
