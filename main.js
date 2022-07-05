@@ -8,8 +8,8 @@ rightWristY = 0;
 
 function preload(){
 
-    Song1 = loadSong("music.mp3");
-    Song2 = loadSong("music2.mp3");
+    Song1 = loadSound("music.mp3");
+    Song2 = loadSound("music2.mp3");
 }
 
 function setup(){
